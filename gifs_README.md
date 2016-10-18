@@ -1,5 +1,5 @@
-# Intro to Programming with Python
+# The Great GIF Grab Bag
 
-This is a sample application
+Lynden and Patrick's Grab Bag o' GIFS
 
-by [Lynden Volpe](http://www.facebook.com/carolyne.volpe)
+by [Patrick Hugueni] and [Lynden Volpe](https://cbs-ipp-g11.herokuapp.com)
